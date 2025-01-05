@@ -85,6 +85,7 @@
             <li><strong>Konflikte mit Menschen:</strong> Elefanten dringen auf der Suche nach Ressourcen häufiger in bewohnte Gebiete ein.</li>
         </ul>
         <p>Diese Veränderungen führen zu Stress, höherer Sterblichkeit und geringerer Fortpflanzungsrate, was die Population gefährdet.</p>
+        <img src="klimawandel_elefanten.jpg" alt="Elefanten in einer durch den Klimawandel betroffenen Landschaft" title="Der Klimawandel und seine Auswirkungen auf Elefanten">
     </section>
 
     <section id="hilfe" class="content">
